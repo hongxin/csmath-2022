@@ -29,7 +29,7 @@ Hongjia Wu, Shi Dong and Shanchen Zou
 |      |                     |              |  [Why data driven](pdf/csmath-01-data-driven.pdf)       |                         |
 |      |                     |              |  [Point estimation](pdf/csmath-01-point_estimation.pdf)   |                         |
 |      |                     |              |  [Additional reading](https://engineering.purdue.edu/kak/Trinity.pdf) |             |
-|  02  |  Component Analysis |  2022.03.01  |  [SVD and X-PCA](pdf/csmath-02-component_analysis.pdf)    |   [HW02](hw/hw02.md)    |
+|  02  |  Component Analysis |  2022.03.01  |  [SVD and X-PCA](pdf/csmath-02-component_analysis-2022.pdf)    |   [HW02](hw/hw02.md)    |
 |  03  |  Clustering         |  2022.03.08  |  [Clustering](pdf/csmath-03-distance_and_similarity.pdf)  |   [HW03](hw/hw03.md)    |
 |  04  |  Graphical Models   |  2022.03.15  |  [Graphical Models](pdf/csmath-04-graphical_models.pdf)   |                         |
 | ---  |   ---               |  ---         |  ---                                                      |   ---                   |
