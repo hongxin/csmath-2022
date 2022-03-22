@@ -26,10 +26,10 @@ Hongjia Wu, Shi Dong and Shanchen Zou
 |:----:|:-------------------:|:------------:|:---------------------------------------------------------:|:-----------------------:|
 | ---  |   ---               |  ---         |  The spring semester                                      |   ---                   |
 |  01  |  Introduction       |  2022.02.22  |  [Introduction](pdf/csmath-00-introduction.pdf)           |   [HW01](hw/hw01.md)    |
-|      |                     |              |  [Why data driven](pdf/csmath-01-data-driven.pdf)       |                         |
+|      |                     |              |  [Why data driven](pdf/csmath-01-data-driven.pdf)         |                         |
 |      |                     |              |  [Point estimation](pdf/csmath-01-point_estimation.pdf)   |                         |
-|      |                     |              |  [Additional reading](https://engineering.purdue.edu/kak/Trinity.pdf) |             |
-|  02  |  Component Analysis |  2022.03.01  |  [SVD and X-PCA](pdf/csmath-02-component_analysis-2022.pdf)    |   [HW02](hw/hw02.md)    |
+|      |                     |              |  [Additional reading](https://engineering.purdue.edu/kak/Trinity.pdf)  |            |
+|  02  |  Component Analysis |  2022.03.01  |  [SVD and X-PCA](pdf/csmath-02-component_analysis-2022.pdf)  |  [HW02](hw/hw02.md)  |
 |  03  |  Clustering         |  2022.03.08  |  [Clustering](pdf/csmath-03-distance_and_similarity.pdf)  |   [HW03](hw/hw03.md)    |
 |  04  |  Graphical Models   |  2022.03.15  |  [Graphical Models](pdf/csmath-04-graphical_models.pdf)   |                         |
 | ---  |   ---               |  ---         |  ---                                                      |   ---                   |
@@ -37,6 +37,8 @@ Hongjia Wu, Shi Dong and Shanchen Zou
 |      |                     |              |  [Support Vector Machines](pdf/ML2007-SVM.pdf)            |                         |
 |      |                     |              |  [Decision tree](pdf/ML2007-decision_tree.pdf)            |                         |
 |      |                     |              |  [Boosting](pdf/ML2007-boosting.pdf)                      |                         |
+|      |                     |              |  [Kalman Filter](pdf/ML2007-kalman_filter.pdf)            |                         |
+|      |                     |              |  [Old course](http://www.cad.zju.edu.cn/home/zhx/ML/index_2007.html)   |            |
 | ---  |   ---               |  ---         |  ---                                                      |   ---                   |
 |  05  |  Linear Programming |  2022.03.22  |  [LP-1](pdf/csmath-05-linear_programming.pdf)             |                         |
 |      |                     |              |  [English version](pdf/csmath-05-linear_programming_en.pdf)       |                 |
