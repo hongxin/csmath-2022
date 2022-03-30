@@ -44,7 +44,7 @@ Hongjia Wu, Shi Dong and Shanchen Zou
 |      |                     |              |  [English version](pdf/csmath-05-linear_programming_en.pdf)       |                 |
 |  06  |  Linear Programming |  2022.03.29  |  [LP-2](pdf/csmath-06-linear_programming_and_dual_methods.pdf)    |                 |
 |      |                     |              |  [English version](pdf/csmath-06-linear_programming_and_dual_methods_en.pdf)    |   |
-|  07  |  Non-Linear         |  2022.04.05  |  [NP-1](pdf/csmath-07-nonlinear.pdf)                      |   [HW04](hw/hw04.md)    |
+|  07  |  Non-Linear         |  2022.04.12  |  [NP-1](pdf/csmath-07-nonlinear.pdf)                      |   [HW04](hw/hw04.md)    |
 |  08  |  Non-Linear         |  2022.04.12  |  [NP-2](pdf/csmath-08-nonlinear_and_qp.pdf)               |   [HW05](hw/hw05.md)    |
 
 
