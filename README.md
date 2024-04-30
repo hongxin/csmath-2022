@@ -1,4 +1,4 @@
-# CSMATH-2022
+# CSMATH-2022-2024
 
 ## About this course
 This mathematics course is designed for the first year Ph.D. students of computer science and related areas. The course focuses on the methodologies, technologies, mathematics and algorithms currently needed by people. We are trying our best to give novice of this area an introduction of mathematics with intuitive explanation, clear concepts as well as vivid application examples. The course consists of basic statistical learning, non-linear optimization, partial differential equations and applied function analysis.
@@ -75,8 +75,8 @@ Optimization methods, both linear and non-linear ones, are important mathematica
 Students entering the class should have a pre-existing working knowledge of fundamental mathematics and algorithms, though the class has been designed to allow students with a strong numerate background to catch up and fully participate.
 
 ## Copyright
-2005-2022 Copyright By Dr. Hongxin Zhang AT Zhejiang University
+2005-2024 Copyright By Dr. Hongxin Zhang AT Zhejiang University
 
-浙江大学 2005-2022 版权所有，如需转载或引用本课程相关内容，请与作者联系。
+浙江大学 2005-2024 版权所有，如需转载或引用本课程相关内容，请与作者联系。
 
 You can also visit my weibo: https://weibo.com/kull
